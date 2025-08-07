@@ -1,0 +1,3 @@
+<mod displayName="Ridiculous Drives" unique="glowRD" description="This mod reduces the cost of buying interstellar drives, and greatly increases their distance!" installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.20">
+    <prerequisite game="GalacticAdventures">RidiculousDrives.package</prerequisite>
+</mod>
